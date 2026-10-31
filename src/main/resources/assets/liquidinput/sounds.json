@@ -1,0 +1,278 @@
+{
+  "key.thock": {
+    "sounds": [
+      {
+        "name": "liquidinput:key/thock1",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/thock2",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/thock3",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/thock4",
+        "volume": 1.0
+      }
+    ]
+  },
+  "key.thock_up": {
+    "sounds": [
+      {
+        "name": "liquidinput:key/thock_up",
+        "volume": 1.0
+      }
+    ]
+  },
+  "key.clicky": {
+    "sounds": [
+      {
+        "name": "liquidinput:key/clicky1",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/clicky2",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/clicky3",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/clicky4",
+        "volume": 1.0
+      }
+    ]
+  },
+  "key.clicky_up": {
+    "sounds": [
+      {
+        "name": "liquidinput:key/clicky_up",
+        "volume": 1.0
+      }
+    ]
+  },
+  "key.creamy": {
+    "sounds": [
+      {
+        "name": "liquidinput:key/creamy1",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/creamy2",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/creamy3",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/creamy4",
+        "volume": 1.0
+      }
+    ]
+  },
+  "key.creamy_up": {
+    "sounds": [
+      {
+        "name": "liquidinput:key/creamy_up",
+        "volume": 1.0
+      }
+    ]
+  },
+  "key.typewriter": {
+    "sounds": [
+      {
+        "name": "liquidinput:key/typewriter1",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/typewriter2",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/typewriter3",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/typewriter4",
+        "volume": 1.0
+      }
+    ]
+  },
+  "key.typewriter_up": {
+    "sounds": [
+      {
+        "name": "liquidinput:key/typewriter_up",
+        "volume": 1.0
+      }
+    ]
+  },
+  "key.bubble": {
+    "sounds": [
+      {
+        "name": "liquidinput:key/bubble1",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/bubble2",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/bubble3",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:key/bubble4",
+        "volume": 1.0
+      }
+    ]
+  },
+  "key.bubble_up": {
+    "sounds": [
+      {
+        "name": "liquidinput:key/bubble_up",
+        "volume": 1.0
+      }
+    ]
+  },
+  "mouse.crisp": {
+    "sounds": [
+      {
+        "name": "liquidinput:mouse/crisp1",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:mouse/crisp2",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:mouse/crisp3",
+        "volume": 1.0
+      }
+    ]
+  },
+  "mouse.crisp_up": {
+    "sounds": [
+      {
+        "name": "liquidinput:mouse/crisp_up",
+        "volume": 1.0
+      }
+    ]
+  },
+  "mouse.soft": {
+    "sounds": [
+      {
+        "name": "liquidinput:mouse/soft1",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:mouse/soft2",
+        "volume": 1.0
+      },
+      {
+        "name": "liquidinput:mouse/soft3",
+        "volume": 1.0
+      }
+    ]
+  },
+  "mouse.soft_up": {
+    "sounds": [
+      {
+        "name": "liquidinput:mouse/soft_up",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.tap": {
+    "sounds": [
+      {
+        "name": "liquidinput:ui/tap",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.hover": {
+    "sounds": [
+      {
+        "name": "liquidinput:ui/hover",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.slide": {
+    "sounds": [
+      {
+        "name": "liquidinput:ui/slide",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.toggle_on": {
+    "sounds": [
+      {
+        "name": "liquidinput:ui/toggle_on",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.toggle_off": {
+    "sounds": [
+      {
+        "name": "liquidinput:ui/toggle_off",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.tab": {
+    "sounds": [
+      {
+        "name": "liquidinput:ui/tab",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.open": {
+    "sounds": [
+      {
+        "name": "liquidinput:ui/open",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.close": {
+    "sounds": [
+      {
+        "name": "liquidinput:ui/close",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.whoosh": {
+    "sounds": [
+      {
+        "name": "liquidinput:ui/whoosh",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.success": {
+    "sounds": [
+      {
+        "name": "liquidinput:ui/success",
+        "volume": 1.0
+      }
+    ]
+  },
+  "ui.error": {
+    "sounds": [
+      {
+        "name": "liquidinput:ui/error",
+        "volume": 1.0
+      }
+    ]
+  }
+}
